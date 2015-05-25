@@ -1,0 +1,15 @@
+body
+{
+	width:100%;
+}
+/* Center the container */
+#content-area
+{
+	margin:0 auto;
+	width:320px;
+}
+/* Give canvas a background */
+canvas
+{
+	border:1px solid #000;
+}
